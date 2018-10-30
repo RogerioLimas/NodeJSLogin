@@ -1,0 +1,19 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "Login - Node.JS Course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogerioLimas/NodeJSLogin.git"
+  },
+  "author": "Rogerio Limas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RogerioLimas/NodeJSLogin/issues"
+  },
+  "homepage": "https://github.com/RogerioLimas/NodeJSLogin#readme"
+}
