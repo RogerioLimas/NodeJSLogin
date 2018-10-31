@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/RogerioLimas/NodeJSLogin/issues"
   },
-  "homepage": "https://github.com/RogerioLimas/NodeJSLogin#readme"
+  "homepage": "https://github.com/RogerioLimas/NodeJSLogin#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.8"
+  }
 }
